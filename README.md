@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&&customColorList=2&text=Engineer%20by%20title,&section=header&fontSize=35&desc=problem-solver%20by%20nature.&descAlignY=61&descAlign=66&animation=fadeIn&fontColor=8A505E
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Engineer%20by%20title,%20&desc=problem-solver%20by%20nature.&descAlign=64&descAlignY=61&fontSize=55&descSize=30&fontAlign=41&fontAlignY=43
 )
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25+&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=275&height=40&lines=Hi%2C+I'm+Anastasiia+)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 <hr style="height:1px; border:none; color:#ccc; background-color:#ccc; width:50%; margin: 10px auto;" />
