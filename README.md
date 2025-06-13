@@ -7,8 +7,7 @@
 
 <p align="left">Software engineer <strong>focused</strong> on <strong>client-first delivery</strong>.<br>I </strong>write</strong> code that <strong>ships</strong>, <strong>scales</strong>, and <strong>survives</strong>.</p>
 
-* 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [Portfolio](http://github.com/AnastasiiaBoryslavska)
+* 🌍  Based in Toronto
 
 ###
 
