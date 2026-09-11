@@ -7,7 +7,7 @@
 
 <p align="left">Software engineer <strong>focused</strong> on <strong>client-first delivery</strong>.<br>I </strong>write</strong> code that <strong>ships</strong>, <strong>scales</strong>, and <strong>survives</strong>.</p>
 
-* 🌍  Based in Toronto
+* 🌍  Based in Vancouver
 
 ###
 
